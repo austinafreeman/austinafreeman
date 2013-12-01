@@ -1,0 +1,57 @@
+#wrapper {
+	width:750px;
+	height:1200px;
+}
+
+
+a #frbfi {
+	width:150px;
+	margin-left: 500px;
+	margin-top: 50px;
+}
+
+a:hover #frbfi {
+	
+}
+
+a #frinvbfi {
+	width:150px;
+	float: right;
+	margin-right: -150px;
+	margin-top: 200px;
+}
+
+a #frtofu {
+	width:150px;
+	float:right;
+	margin-top: 450px;
+	margin-right: -160px;
+}
+
+a #frwritings {
+	width:150px;
+	float:left;
+	margin-top: 0px;
+	margin-left: 250px;
+}
+
+a #frabout {
+	width:150px;
+	margin-left: 108px;
+	margin-top: 125px;
+}
+
+a #frdesrv {
+	width:150px;
+	margin-left: 250px;
+	margin-top:	-25px;
+}
+
+#frbeau {
+	width:150px;
+	margin-left: 500px;
+	margin-top:0px;
+}
+
+
+
