@@ -1,0 +1,119 @@
+.landingpagebg  {
+	background-image: url(images/landingpagepic.jpg);
+	height:1100px;
+}
+
+.backgroundconfirmlocal {
+	background-color: #0066ff;
+	
+}
+
+#header {
+	background-image: url(images/tofuheaderbox.jpg);
+	background-repeat: no-repeat;
+	margin-top:-12px;
+	margin-left: -12px;
+	height: 175px;
+	width: 1300px;
+	padding-bottom: 10px;
+	
+}
+
+#title {
+	font-family: bushido;
+	font-size: 180px;
+	color: white;
+	text-align: center;
+	
+	font-weight: bold;
+	font-style: oblique;
+	
+}
+
+#welcome {
+	font-family: menlo;
+	font-size: 36px;
+	color: white;
+	margin-top: 125px;
+	margin-left: 725px;
+	text-shadow: 1px 1px 0px black;
+}
+#login {
+	margin-top:100px;
+	margin-right: 150px;
+	float:right;
+	font-family: bushido;
+	font-size: 36px;
+	color: white;
+	text-align: center;
+	padding-bottom: 10px;
+	padding-left: 50px;
+	padding-top: 10px;
+	padding-right: 50px;
+	font-weight: bold;
+	font-style: oblique;
+	background-color: #ff61c5;
+	border: transparent;
+	border-radius: 5px;
+}
+
+#signup {
+	
+	float: right;
+	margin-top:200px;
+	margin-right: -300px;
+	font-family: bushido;
+	font-size: 36px;
+	color: white;
+	text-align: center;
+	padding:10px 50px 10px 50px;
+	font-weight: bold;
+	font-style: oblique;
+	background-color: #ff61c5;
+	border: transparent;
+	border-radius: 5px;
+}
+
+a {
+	text-decoration: none;
+	color:white;
+}
+
+a:hover {
+	font-size: 42px;
+}
+
+#maps {
+	text-align: center;
+}
+
+.confirmlocationtext {
+	font-family: museo sans;
+	font-weight: 500;
+	color: white;
+	font-size: 24px;
+	text-shadow: 1px 1px 3px black;
+	text-align: center;
+	margin-top: 25px;
+}
+
+.button {
+	float: right;
+	font-family: bushido;
+	font-size: 36px;
+	color: white;
+	text-align: center;
+	padding:10px 50px 10px 50px;
+	font-weight: bold;
+	font-style: oblique;
+	background-color: #ff61c5;
+	border: transparent;
+	border-radius: 5px; 
+	margin-right: 525px;
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+
+footer {
+	
+}
