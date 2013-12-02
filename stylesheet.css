@@ -1,56 +1,61 @@
+#beautyea {
+	background-color: aqua;
+}
 #wrapper {
-	width:750px;
-	height:900px;
+	width:auto;
+	height:875px;;
 }
 
 
 a #frbfi {
+	position: absolute;
 	width:150px;
-	margin-left: 500px;
-	margin-top: 50px;
-}
-
-a:hover #frbfi {
-	
-}
-
-a #frinvbfi {
-	width:150px;
-	float: right;
-	margin-right: -150px;
-	margin-top: 200px;
-}
-
-a #frtofu {
-	width:150px;
-	float:right;
-	margin-top: 450px;
-	margin-right: -160px;
+	left: 550px;
+	top: 75px;
 }
 
 a #frwritings {
+	position: absolute;
 	width:150px;
-	float:left;
-	margin-top: 0px;
-	margin-left: 250px;
-}
+	left: 350px;
+	top: 250px;
+	}
 
-a #frabout {
+a #frinvbfi {
+	position: absolute;
 	width:150px;
-	margin-left: 108px;
-	margin-top: 125px;
+	left:750px;
+	top:250px;
 }
 
 a #frdesrv {
+	position: absolute;
 	width:150px;
-	margin-left: 250px;
-	margin-top:	-25px;
+	left: 350px;
+	top: 500px;
 }
 
-#frbeau {
+
+a #frtofu {
+	position: absolute;
 	width:150px;
-	margin-left: 500px;
-	margin-top:0px;
+	left: 750px;
+	top:500px;
+}
+
+a #frbeau {
+	position: absolute;
+	width:150px;
+	left: 550px;
+	top: 625px;
+}
+
+#lines {
+	
+	position: absolute;
+	left: 510px;
+	top: 250px;
+	
 }
 
 
